@@ -23,5 +23,7 @@ Version 1.0.0 of TouhouDeck will have compatibility with the following games:
 | VIVIT-99 (Seihou)             | ❓ Unknown Status |
 | Any mainline games after PoFV | ❌ Will never be compatible, they can be bought on Steam |
 
+<b>Future updates will likely add support for IaMP, Uwabami Breakers, and maybe Torte le Magic.</b>
+
 # Installation
 The script is still being built, so no installation guide is available as of now.
