@@ -1,4 +1,4 @@
-# TouhouDeck
+<img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/af1c1154-1c19-4ac3-81e3-12f57fb3979e" /># TouhouDeck
 TouhouDeck is a script that provides a convenient way to set up and play the classic Touhou/Seihou games on the Steam Deck, or other Linux-based handheld PCs.
 
 # Contents  
@@ -16,11 +16,12 @@ Version 1.0.0 of TouhouDeck will have compatibility with the following games:
 | ![](https://en.touhouwiki.net/images/thumb/d/dd/Icon_th05.png/16px-Icon_th05.png) Mystic Square                 | ✅ Compatible     |
 | Shuusou Gyoku (Seihou)        | ✅ Compatible thanks to [the ReC98 port of SSG for Linux (thanks guys!)](https://flathub.org/en/apps/net.nmlgc.rec98.sh01)   |
 | Kioh Gyoku (Seihou)           | ❌ Incompatible   |
-| Embodiment of Scarlet Devil   | ✅ Compatible     |
-| Perfect Cherry Blossom        | ✅ Compatible     |
-| Imperishable Night            | ✅ Compatible     |
+| ![](https://en.touhouwiki.net/images/thumb/c/c9/Icon_th06.png/16px-Icon_th06.png) Embodiment of Scarlet Devil   | ✅ Compatible     |
+| ![](https://en.touhouwiki.net/images/thumb/2/24/Icon_th07.png/16px-Icon_th07.png) Perfect Cherry Blossom        | ✅ Compatible     |
+| ![](https://en.touhouwiki.net/images/thumb/6/63/Icon_th08.png/16px-Icon_th08.png) Imperishable Night            | ✅ Compatible     |
 | Banshiryuu (Seihou)           | ❓ Unknown Status |
 | VIVIT-99 (Seihou)             | ❓ Unknown Status |
+| Any mainline games after PoFV | ❌ Will never be compatible, they can be bought on Steam |
 
 # Installation
 The script is still being built, so no installation guide is available as of now.
