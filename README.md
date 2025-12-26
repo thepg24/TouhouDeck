@@ -1,6 +1,9 @@
 # TouhouDeck
 TouhouDeck is a script that provides a convenient way to play the classic Touhou/Seihou games on the Steam Deck, or other Linux-based handheld PCs.
 
+# Table of Contents  
+[Supported Titles](#supported_titles)  
+
 # Supported Titles
 Version 1.0.0 of TouhouDeck will have compatibility with the following games:
 | Game                          | Compatibility  |
