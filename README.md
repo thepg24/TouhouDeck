@@ -1,4 +1,4 @@
-<img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/af1c1154-1c19-4ac3-81e3-12f57fb3979e" /># TouhouDeck
+# TouhouDeck
 TouhouDeck is a script that provides a convenient way to set up and play the classic Touhou/Seihou games on the Steam Deck, or other Linux-based handheld PCs.
 
 # Contents  
