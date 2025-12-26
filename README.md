@@ -3,7 +3,6 @@ TouhouDeck is a script that provides a convenient way to play the classic Touhou
 
 # Contents  
 [Supported Titles](#supported_titles)
-
 [Installation](#installation)
 
 # Supported Titles
