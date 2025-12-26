@@ -9,18 +9,18 @@ TouhouDeck is a script that provides a convenient way to set up and play the cla
 Version 1.0.0 of TouhouDeck will have compatibility with the following games:
 | Game                          | Compatibility  |
 | ----------------------------- | -------------- |
-| Highly Responsive to Prayers  | Compatible     |
-| Story of Eastern Wonderland   | Compatible     |
-| Phantasmagoria of Dim.Dream   | Compatible     |
-| Lotus Land Story              | Compatible     |
-| Mystic Square                 | Compatible     |
-| Shuusou Gyoku (Seihou)        | Compatible thanks to [the ReC98 port of SSG for Linux](https://flathub.org/en/apps/net.nmlgc.rec98.sh01)   |
-| Kioh Gyoku (Seihou)           | Incompatible   |
-| Embodiment of Scarlet Devil   | Compatible     |
-| Perfect Cherry Blossom        | Compatible     |
-| Imperishable Night            | Compatible     |
-| Banshiryuu (Seihou)           | Unknown Status |
-| VIVIT-99 (Seihou)             | Unknown Status |
+| Highly Responsive to Prayers  | ✅ Compatible     |
+| Story of Eastern Wonderland   | ✅ Compatible     |
+| Phantasmagoria of Dim.Dream   | ✅ Compatible     |
+| Lotus Land Story              | ✅ Compatible     |
+| Mystic Square                 | ✅ Compatible     |
+| Shuusou Gyoku (Seihou)        | ✅ Compatible thanks to [the ReC98 port of SSG for Linux (thanks guys!)](https://flathub.org/en/apps/net.nmlgc.rec98.sh01)   |
+| Kioh Gyoku (Seihou)           | ❌ Incompatible   |
+| Embodiment of Scarlet Devil   | ✅ Compatible     |
+| Perfect Cherry Blossom        | ✅ Compatible     |
+| Imperishable Night            | ✅ Compatible     |
+| Banshiryuu (Seihou)           | ❓ Unknown Status |
+| VIVIT-99 (Seihou)             | ❓ Unknown Status |
 
 # Installation
 The script is still ebing built, so no installation guide is available as of now.
