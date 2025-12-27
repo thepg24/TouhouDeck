@@ -40,6 +40,8 @@ Select the game you want to install and press ENTER on your (virtual) keyboard. 
 
 <i>"File downlolading is done. Now, drag and drop then files found in the th05 directory into the dosbox-x parent folder. The Steam shortcut will not work otherwise. Press ENTER to begin the next step."</i>
 
+<b>(ONE QUICK NOTE, READ BECAUSE IT'S IMPORTANT!!)
+The DOSBox-X folders will not be created until DOSBox-X is opened AT LEAST ONCE! Before continuing onto the file transfers, open and close DOSBox-X first so the folders are all prepared for this portion of the installation.</b>
 
 Basically, you need to drag and drop the included .conf and .hdi files into the dosbox-x folder that the th0x folder is located in. Enter Selection Mode on your device after the Dolphin window opens, and drag and drop it onto the dosbox-x folder as seen on the navigation bar. (NOT com.dosbox_x.DOSBox-X!!!)
 
