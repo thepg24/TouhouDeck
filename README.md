@@ -27,6 +27,7 @@ Version 1.0.0 of TouhouDeck will have compatibility with the following games:
 | Any mainline games from PoFV onward | ❌ Will never be compatible, they can be bought on Steam |
 
 # Installation
-FIrst of all, you are going to want to download the script from the Releases tab. Then, open up your terminal of choice and navigate to the script's location. After that, start the script using your terminal. The script should check to see if Git is installed, before bringing you to this screen:
+First of all, you are going to want to download the script from the Releases tab. Then, open up your terminal of choice and navigate to the script's location. After that, start the script using your terminal. The script should check to see if Git is installed, before bringing you to this screen:
+![](image.png)
 
 ## PC-98 Titles (Touhou 1-5)
