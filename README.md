@@ -8,7 +8,7 @@ TouhouDeck is a script that provides a convenient way to set up and play the cla
   - [Seihou Shuusou Gyoku](#seihou-shuusou-gyoku)
 
 # Supported Titles
-Version 1.0.0 of TouhouDeck will have compatibility with the following games:
+TouhouDeck currently has compatibility with the following games:
 | Game                          | Compatibility  |
 | ----------------------------- | -------------- |
 | ![](https://en.touhouwiki.net/images/thumb/1/11/Icon_th01.png/16px-Icon_th01.png) Highly Responsive to Prayers  | ✅ Compatible     |
