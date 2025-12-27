@@ -66,6 +66,7 @@ Here are some features I'm planning to add in future updates of TouhouDeck (this
 | Making the script look prettier when executing actions | v1.1.0           |
 | Support for the original Windows trilogy (EoSD-IN) | v1.1.0               |
 | Game artwork (Game cover, logo, icon, etc.)        | v1.1.0               |
+| Integrated update detection                        | Either v1.1.0 or v1.2.0 |
 | Support for Immaterial and Missing Power           | v1.2.0               |
 | Support for Torte Le Magic                         | v1.2.0 if compatible |
 | Support for Uwabami Breakers                       | v1.2.0 if compatible |
