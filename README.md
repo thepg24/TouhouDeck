@@ -19,7 +19,7 @@ Version 1.0.0 of TouhouDeck will have compatibility with the following games:
 | ![](https://www.thpatch.net/w/images/b/b9/Icon_tmgc.png) Torte Le Magic                | ❓ Unknown Status |
 | ![](https://en.touhouwiki.net/images/thumb/c/c9/Icon_th06.png/16px-Icon_th06.png) Embodiment of Scarlet Devil   | ⏳ Planned for update v1.1.0     |
 | ![](https://en.touhouwiki.net/images/thumb/2/24/Icon_th07.png/16px-Icon_th07.png) Perfect Cherry Blossom        | ⏳ Planned for update v1.1.0     |
-| ![](https://en.touhouwiki.net/images/thumb/f/f6/Icon_th075.png/24px-Icon_th075.png) Immaterial and Missing Power  | ⏳ Planned for update v1.2.0     |
+| ![](https://en.touhouwiki.net/images/thumb/f/f6/Icon_th075.png/16px-Icon_th075.png) Immaterial and Missing Power  | ⏳ Planned for update v1.2.0     |
 | ![](https://en.touhouwiki.net/images/thumb/6/63/Icon_th08.png/16px-Icon_th08.png) Imperishable Night            | ⏳ Planned for update v1.1.0     |
 | ![](https://en.touhouwiki.net/images/thumb/c/c8/Icon_sh03.png/16px-Icon_sh03.png) Banshiryuu (Seihou)           | ❓ Unknown Status |
 | ![](https://en.touhouwiki.net/images/thumb/c/c8/Icon_sh03.png/16px-Icon_sh03.png) Uwabami Breakers (alcostg)    | ❓ Unknown Status |
