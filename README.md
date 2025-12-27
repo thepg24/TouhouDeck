@@ -68,8 +68,8 @@ Here are some features I'm planning to add in future updates of TouhouDeck (this
 | Support for Immaterial and Missing Power           | v1.2.0               |
 | Support for Torte Le Magic                         | v1.2.0 if compatible |
 | Support for Uwabami Breakers                       | v1.2.0 if compatible |
-| Support for Super Marisa Land/MegaMari             | ???                  |
-| Support for Fools Rush In                          | ???                  |
 | Support for Kioh Gyoku                             | ???                  |
 | Support for Banshiryuu                             | ???                  |
 | Support for VIVIT-99                               | ???                  |
+| Support for Super Marisa Land/MegaMari             | ???                  |
+| Support for Fools Rush In                          | ???                  |
