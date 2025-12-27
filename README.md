@@ -51,6 +51,7 @@ Basically, you need to drag and drop the included .conf and .hdi files into the 
 After transferring the files to the correct folder, close the Dolphin window and press ENTER to complete the installation. After opening Steam, your game(s) should be there. If they are, highlight the game(s) you installed and go to <b>Options -> Properties... -> Shortcut -> Launch Options</b>. You will then remove any quotation marks (") that are in the Launch Options text field. This may be tedious, but I haven't found an efficient way to automatically remove them so I'm afraid you'll have to do this manually. Sorry 😭
 
 Also, this is my recommended controller layout for use with Touhou 1-3:
+
 ![](controllerlayout.jpg)
 
 With LLS and MS, you can use the same button layout as shown above as well as any button defined as the Shift key. It's best to make sure your Shift key is easy to reach during gameplay for comfort purposes. (I'd recommend one of the bumpers or triggers personally)
