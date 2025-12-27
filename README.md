@@ -42,3 +42,5 @@ Select the game you want to install (this guide will use Story of Eastern Wonder
 
 
 Basically, you need to drag and drop the included .conf and .hdi files into the dosbox-x folder that the th0x folder is located in. Enter Selection Mode on your device, and drag and drop it onto the dosbox-x folder as seen on the navigation bar. (NOT com.dosbox_x.DOSBox-X!!!)
+
+![Your navigation bar should look like this. See where it says dosbox-x? That's where you drag and drop your files.](image1.png)
