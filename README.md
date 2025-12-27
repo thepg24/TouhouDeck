@@ -54,7 +54,7 @@ Also, this is my recommended controller layout for use with Touhou 1-3:
 
 With LLS and MS, you can use the displayed button layout as well as any button defined as the Shift key. Make sure your Shift key is easy to reach during gameplay for comfort purposes. (I'd recommend one of the bumpers or triggers personally)
 
-Once everything is fully configured, launch the game(s) and enjoy!
+Once everything is fully configured, launch the game(s) of your choosing and enjoy!
 
 ## Seihou Shuusou Gyoku
 Shuusou Gyoku is a much easier game to install, as you don't need to transfer any files for the main process. Simply enter 6 at the main screen and press ENTER. The entire game (based on the [ReC98 port for Linux](https://flathub.org/en/apps/net.nmlgc.rec98.sh01)) will install for you and be added to your Steam library. After completing the installation, the page for downloading BGM packs will also open automatically so you can download and transfer them to your game.
