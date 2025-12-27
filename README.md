@@ -47,7 +47,7 @@ Basically, you need to drag and drop the included .conf and .hdi files into the 
 
 ![Your navigation bar should look like this. See where it says dosbox-x? That's where you drag and drop your files.](image1.png)
 
-After transferring the files to the correct folder, close the Dolphin window and press ENTER to complete the installation. After opening Steam, your games should be there. If they are, highlight the game(s) you installed and go to <b>Options -> Properties... -> Shortcut -> Launch Options</b>. You will then remove any quotation marks (") that are in the Launch Options text field. This may be tedious, but I haven't found an efficient way to automatically remove them so I'm afraid you'll have to do this manually. Sorry 😭
+After transferring the files to the correct folder, close the Dolphin window and press ENTER to complete the installation. After opening Steam, your game(s) should be there. If they are, highlight the game(s) you installed and go to <b>Options -> Properties... -> Shortcut -> Launch Options</b>. You will then remove any quotation marks (") that are in the Launch Options text field. This may be tedious, but I haven't found an efficient way to automatically remove them so I'm afraid you'll have to do this manually. Sorry 😭
 
 Also, this is my recommended controller layout for use with Touhou 1-3:
 ![](controllerlayout.jpg)
