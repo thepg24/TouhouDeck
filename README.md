@@ -36,6 +36,8 @@ First of all, you are going to want to download the script from the Releases tab
 The PC-98 Touhou games may seem rather difficult to install, but it's actually really easy! You can install any game from the entire Touhou PC-98 pentaology, but they <b>won't have the sound BIOS set up as the process isn't as simple as it would be on Windows devices</b>. I'll see if I can get them added for a future update, but you're going to have to wait if you want the games to sound like they would on native hardware. If you don't care about that, then by all means keep going with the tutorial!
 
 Select the game you want to install (this guide will use Story of Eastern Wonderland as an example) and press ENTER on your (virtual) keyboard. The script will install DOSBox-X if it hasn't been already and download the necessary files. Once that part of the installation is complete, the script will tell you the following:
+
 <i>"File downlolading is done. Now, drag and drop then files found in the th05 directory into the dosbox-x parent folder. The Steam shortcut will not work otherwise. Press ENTER to begin the next step."</i>
+
 
 Basically, you need to drag and drop the included .conf and .hdi files into the dosbox-x folder that the th0x folder is located in. Enter Selection Mode on your device, and drag and drop it onto the dosbox-x folder as seen on the navigation bar. (NOT com.dosbox_x.DOSBox-X!!!)
