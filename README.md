@@ -23,7 +23,7 @@ Version 1.0.0 of TouhouDeck will have compatibility with the following games:
 | ![](https://en.touhouwiki.net/images/thumb/6/63/Icon_th08.png/16px-Icon_th08.png) Imperishable Night            | ⏳ Planned for update v1.1.0     |
 | ![](https://en.touhouwiki.net/images/thumb/c/c8/Icon_sh03.png/16px-Icon_sh03.png) Banshiryuu (Seihou)           | ❓ Unknown Status |
 | ![](https://en.touhouwiki.net/images/thumb/a/ab/Icon_alcostg.png/16px-Icon_alcostg.png) Uwabami Breakers (alcostg)    | ❓ Unknown Status |
-| Any mainline games after PoFV | ❌ Will never be compatible, they can be bought on Steam |
+| Any mainline games from PoFV onward | ❌ Will never be compatible, they can be bought on Steam |
 
 # Installation
 The script is still being built, so no installation guide is available as of now.
