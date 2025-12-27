@@ -6,6 +6,7 @@ TouhouDeck is a script that provides a convenient way to set up and play the cla
 - [Installation](#installation)
   - [The PC-98 Games (Touhou 1-5)](#the-pc-98-games-touhou-1-5)
   - [Seihou Shuusou Gyoku](#seihou-shuusou-gyoku)
+- [Roadmap](#roadmap)
 
 # Supported Titles
 TouhouDeck currently has compatibility with the following games:
@@ -17,7 +18,7 @@ TouhouDeck currently has compatibility with the following games:
 | ![](https://en.touhouwiki.net/images/thumb/6/6d/Icon_th04.png/16px-Icon_th04.png) Lotus Land Story              | ✅ Compatible     |
 | ![](https://en.touhouwiki.net/images/thumb/d/dd/Icon_th05.png/16px-Icon_th05.png) Mystic Square                 | ✅ Compatible     |
 | ![](https://en.touhouwiki.net/images/thumb/6/69/Icon_sh01.png/16px-Icon_sh01.png) Shuusou Gyoku (Seihou)        | ✅ Compatible thanks to [the ReC98 port of SSG for Linux (thanks guys!)](https://flathub.org/en/apps/net.nmlgc.rec98.sh01)   |
-| ![](https://en.touhouwiki.net/images/thumb/b/b0/Icon_sh02.png/16px-Icon_sh02.png) Kioh Gyoku (Seihou)           | ❌ Incompatible   |
+| ![](https://en.touhouwiki.net/images/thumb/b/b0/Icon_sh02.png/16px-Icon_sh02.png) Kioh Gyoku (Seihou)           | ❓ Unknown Status |
 | 🌻 Torte Le Magic                | ⏳ Planned for update v1.2.0 but possibly incompatible |
 | ![](https://en.touhouwiki.net/images/thumb/c/c9/Icon_th06.png/16px-Icon_th06.png) Embodiment of Scarlet Devil   | ⏳ Planned for update v1.1.0     |
 | ![](https://en.touhouwiki.net/images/thumb/2/24/Icon_th07.png/16px-Icon_th07.png) Perfect Cherry Blossom        | ⏳ Planned for update v1.1.0     |
@@ -57,3 +58,17 @@ Once everything is fully configured, launch the game(s) and enjoy!
 
 ## Seihou Shuusou Gyoku
 Shuusou Gyoku is a much easier game to install, as you don't need to transfer any files for the main process. Simply enter 6 at the main screen and press ENTER. The entire game (based on the [ReC98 port for Linux](https://flathub.org/en/apps/net.nmlgc.rec98.sh01)) will install for you and be added to your Steam library. After completing the installation, the page for downloading BGM packs will also automatically open so you can download and transfer them to your game.
+
+# Roadmap
+Here are some features I'm planning to add in future updates of TouhouDeck (this list is subject to change as I think of new features I'll want to add):
+| Feature                                            | Coming in update...  |
+| -------------------------------------------------- | -------------------- |
+| Support for the original Windows trilogy (EoSD-IN) | v1.1.0               |
+| Support for Immaterial and Missing Power           | v1.2.0               |
+| Support for Torte Le Magic                         | v1.2.0 if compatible |
+| Support for Uwabami Breakers                       | v1.2.0 if compatible |
+| Support for Super Marisa Land/MegaMari             | ???                  |
+| Support for Fools Rush In                          | ???                  |
+| Support for Kioh Gyoku                             | ???                  |
+| Support for Banshiryuu                             | ???                  |
+| Support for VIVIT-99                               | ???                  |
