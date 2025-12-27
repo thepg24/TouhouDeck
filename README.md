@@ -35,7 +35,6 @@ First of all, you are going to want to download the script from the Releases tab
 ## PC-98 Titles (Touhou 1-5)
 The PC-98 Touhou games may seem rather difficult to install, but it's actually really easy! You can install any game from the entire Touhou PC-98 pentaology, but they <b>won't have the sound BIOS set up as the process isn't as simple as it would be on Windows devices</b>. I'll see if I can get them added in a future update, but you're going to have to wait if you want the games to sound like they would on native hardware. If you don't care about that, then by all means keep going with the tutorial!
 
-
 Select the game you want to install and press ENTER on your (virtual) keyboard. The script will install DOSBox-X if it hasn't been already and download the necessary files. Once that part of the installation is complete, the script will tell you the following:
 
 <i>"File downlolading is done. Now, drag and drop then files found in the th05 directory into the dosbox-x parent folder. The Steam shortcut will not work otherwise. Press ENTER to begin the next step."</i>
@@ -47,7 +46,14 @@ Basically, you need to drag and drop the included .conf and .hdi files into the 
 
 ![Your navigation bar should look like this. See where it says dosbox-x? That's where you drag and drop your files.](image1.png)
 
-After transferring the files to the correct folder, close the Dolphin window and press ENTER to complete the installation. After opening Steam, your games should be there.
+After transferring the files to the correct folder, close the Dolphin window and press ENTER to complete the installation. After opening Steam, your games should be there. If they are, highlight the game(s) you installed and go to <sub>Options -> Properties... -> Shortcut -> Launch Options</sub>. You will then remove any quotation marks (") that are in the Launch Options text field. This may be tedious, but I haven't found an efficient way to automatically remove them so I'm afraid you'll have to do this manually. Sorry 😭
+
+Also, this is my reccommended controller layout for use with Touhou 1-3:
+![](controllerlayout.jpg)
+
+With LLS and MS, you can use the displayed button layout as well as any button defined as the Shift key. Make sure your Shift key is easy to reach as well, for comfort and enjoyability purposes.
+
+Once everything is fully configured, launch the game(s) and enjoy!
 
 ## Seihou Shuusou Gyoku
 Shuusou Gyoku is a much easier game to install, as you don't need to transfer any files for the main process. Simply enter 6 at the main screen and press ENTER. The entire game (based on the [ReC98 port for Linux](https://flathub.org/en/apps/net.nmlgc.rec98.sh01)) will install for you and be added to your Steam library. After completing the installation, the page for downloading BGM packs will also automatically open so you can download and transfer them to your game.
