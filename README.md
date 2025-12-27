@@ -57,13 +57,14 @@ With LLS and MS, you can use the displayed button layout as well as any button d
 Once everything is fully configured, launch the game(s) of your choosing and enjoy!
 
 ## Seihou Shuusou Gyoku
-Shuusou Gyoku is a much easier game to install, as you don't need to transfer any files for the main process. Simply enter 6 at the main screen and press ENTER. The entire game (based on the [ReC98 port for Linux](https://flathub.org/en/apps/net.nmlgc.rec98.sh01)) will install for you and be added to your Steam library. After completing the installation, the page for downloading BGM packs will also open automatically so you can download and transfer them to your game.
+Shuusou Gyoku is a much easier game to install, as you don't need to transfer any files for the main process. Simply enter 6 at the main screen and press ENTER. The entire game (based on the [ReC98 port for Linux](https://flathub.org/en/apps/net.nmlgc.rec98.sh01)) will install for you and be added to your Steam library. After completing the installation, the page for downloading BGM packs as well as the folder they go in will automatically open so you can download and transfer them to your game.
 
 # Roadmap
 Here are some features I'm planning to add in future updates of TouhouDeck (this list is subject to change as I think of new features I'll want to add):
 | Feature                                            | Coming in update...  |
 | -------------------------------------------------- | -------------------- |
-| General improvements to the setup process          | v1.0.1               |
+| Making the script look a bit prettier              | v1.1.0               |
+| Cleaning up the terminal so it doesn't look as messy when installing games | v1.1.0               |
 | Support for the original Windows trilogy (EoSD-IN) | v1.1.0               |
 | Game artwork (Game cover, logo, icon, etc.)        | v1.1.0               |
 | Support for Immaterial and Missing Power           | v1.2.0               |
