@@ -52,7 +52,7 @@ After transferring the files to the correct folder, close the Dolphin window and
 Also, this is my recommended controller layout for use with Touhou 1-3:
 ![](controllerlayout.jpg)
 
-With LLS and MS, you can use the displayed button layout as well as any button defined as the Shift key. Make sure your Shift key is easy to reach during gameplay for comfort purposes. (I'd recommend one of the bumpers or triggers personally)
+With LLS and MS, you can use the same button layout as shown above as well as any button defined as the Shift key. It's best to make sure your Shift key is easy to reach during gameplay for comfort purposes. (I'd recommend one of the bumpers or triggers personally)
 
 Once everything is fully configured, launch the game(s) of your choosing and enjoy!
 
