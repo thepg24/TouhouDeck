@@ -37,7 +37,7 @@ The PC-98 Touhou games may seem rather difficult to install, but it's actually r
 
 Select the game you want to install and press ENTER on your (virtual) keyboard. The script will install DOSBox-X if it hasn't been already and download the necessary files. Once that part of the installation is complete, the script will tell you the following:
 
-<i>"File downlolading is done. Now, drag and drop then files found in the th05 directory into the dosbox-x parent folder. The Steam shortcut will not work otherwise. Press ENTER to begin the next step."</i>
+<i>"File downlolading is done. Now, drag and drop then files found in the th0x directory into the dosbox-x parent folder. The Steam shortcut will not work otherwise. Press ENTER to begin the next step."</i>
 
 <b>(ONE QUICK NOTE, READ BECAUSE IT'S IMPORTANT!!)
 The DOSBox-X folders will not be created until DOSBox-X is opened AT LEAST ONCE! Before continuing onto the file transfers, open DOSBox-X and get to the main DOSBox window so the folders are all prepared for this portion of the installation.</b>
