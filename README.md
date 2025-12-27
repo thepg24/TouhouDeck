@@ -3,12 +3,22 @@ TouhouDeck is a script that provides a convenient way to set up and play the cla
 
 # Contents  
 - [Supported Titles](#supported-titles)<br>
+  - [Key](#key)
+  - [Support List](#support-list)
 - [Installation](#installation)
   - [The PC-98 Games (Touhou 1-5)](#the-pc-98-games-touhou-1-5)
   - [Seihou Shuusou Gyoku](#seihou-shuusou-gyoku)
 - [Roadmap](#roadmap)
 
 # Supported Titles
+## Key
+- ✅ = Game is fully supported
+- ⚠️ = Game is supported, but has issues on certain devices
+- ❌ = Game is not supported
+- ⏳ = Support is being worked on
+- ❓ = Support status is unknown
+
+## Support List
 TouhouDeck currently has support with the following games:
 | Game                          | Status         |
 | ----------------------------- | -------------- |
