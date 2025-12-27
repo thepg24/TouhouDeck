@@ -64,7 +64,7 @@ Here are some features I'm planning to add in future updates of TouhouDeck (this
 | Feature                                            | Coming in update...  |
 | -------------------------------------------------- | -------------------- |
 | Support for the original Windows trilogy (EoSD-IN) | v1.1.0               |
-| Game artwork (Gaem cover, logo, icon, etc.)        | v1.1.0               |
+| Game artwork (Game cover, logo, icon, etc.)        | v1.1.0               |
 | Support for Immaterial and Missing Power           | v1.2.0               |
 | Support for Torte Le Magic                         | v1.2.0 if compatible |
 | Support for Uwabami Breakers                       | v1.2.0 if compatible |
