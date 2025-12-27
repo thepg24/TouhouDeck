@@ -26,6 +26,7 @@ TouhouDeck currently has compatibility with the following games:
 | ![](https://en.touhouwiki.net/images/thumb/6/63/Icon_th08.png/16px-Icon_th08.png) Imperishable Night            | ⏳ Planned for update v1.1.0     |
 | ![](https://en.touhouwiki.net/images/thumb/c/c8/Icon_sh03.png/16px-Icon_sh03.png) Banshiryuu (Seihou)           | ❓ Unknown Status |
 | ![](https://en.touhouwiki.net/images/thumb/a/ab/Icon_alcostg.png/16px-Icon_alcostg.png) Uwabami Breakers (alcostg)    | ❓ Unknown Status |
+| 🛡️ Samidare                | ❓ Unknown Status |
 | Any mainline games from PoFV onward | ❌ Will never be compatible, they can be bought on Steam |
 
 # Installation
@@ -71,6 +72,7 @@ Here are some features I'm planning to add in future updates of TouhouDeck (this
 | Support for Uwabami Breakers                       | v1.2.0 if compatible |
 | Integrated update detection                        | ???                  |
 | Support for Kioh Gyoku                             | ???                  |
+| Support for Samidare                               | ???                  |
 | Support for Banshiryuu                             | ???                  |
 | Support for VIVIT-99                               | ???                  |
 | Support for Super Marisa Land/MegaMari             | ???                  |
