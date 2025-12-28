@@ -89,3 +89,4 @@ Here are some features I'm planning to add in future updates of TouhouDeck (this
 | Support for VIVIT-99                               | ???                  |
 | Support for Super Marisa Land/MegaMari             | ???                  |
 | Support for Fools Rush In                          | ???                  |
+| Steam Machine support                              | ???                  |
