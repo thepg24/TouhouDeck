@@ -19,7 +19,7 @@ TouhouDeck is a script that provides a convenient way to set up and play the cla
 - ❓ = Support status is unknown
 
 ## Support List
-TouhouDeck currently has support with the following games:
+TouhouDeck currently has support for the following games:
 | Game                          | Status         |
 | ----------------------------- | -------------- |
 | ![](https://en.touhouwiki.net/images/thumb/1/11/Icon_th01.png/16px-Icon_th01.png) Highly Responsive to Prayers  | ✅ Supported     |
