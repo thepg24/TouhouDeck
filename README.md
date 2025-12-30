@@ -75,7 +75,7 @@ Shuusou Gyoku is a much easier game to install, as you don't need to transfer an
 Here are some features I'm planning to add in future updates of TouhouDeck (this list is subject to change as I think of new features I'll want to add):
 | Feature                                            | Coming in update...  |
 | -------------------------------------------------- | -------------------- |
-| Making the script look prettier when executing actions | v1.1.0           |
+| Extended automation the TH01-05 installation process | v1.1.0           |
 | Internet connectivity check (due to Git requiring it) | v1.1.0            |
 | Support for the original Windows trilogy (EoSD-IN) | v1.1.0               |
 | Game artwork (Game cover, logo, icon, etc.)        | v1.1.0               |
