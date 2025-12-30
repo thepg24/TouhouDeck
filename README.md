@@ -54,7 +54,7 @@ Select the game you want to install and press ENTER on your (virtual) keyboard. 
 <b>(ONE QUICK NOTE, READ BECAUSE IT'S IMPORTANT!!)
 The DOSBox-X folders will not be created until DOSBox-X is opened AT LEAST ONCE! Before continuing onto the file transfers, open DOSBox-X and get to the main DOSBox window so the folders are all prepared for this portion of the installation.</b>
 
-Basically, you need to drag and drop the included .conf and .hdi files into the dosbox-x folder that the th0x folder is located in. Enter Selection Mode on your device after the Dolphin window opens, and drag and drop it onto the dosbox-x folder as seen on the navigation bar. (NOT com.dosbox_x.DOSBox-X!!!)
+Basically, you need to drag and drop the included .conf and .hdi files into the dosbox-x folder that the th0x folder is located in. Enter Selection Mode on your device after the Dolphin window opens, and drag and drop the files onto the dosbox-x folder as seen on the navigation bar. (NOT com.dosbox_x.DOSBox-X!!!)
 
 ![Your navigation bar should look like this. See where it says dosbox-x? That's where you drag and drop your files.](image1.png)
 
