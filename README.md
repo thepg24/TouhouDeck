@@ -71,22 +71,22 @@ Once everything is fully configured, launch the game(s) of your choosing and enj
 ## Seihou Shuusou Gyoku
 Shuusou Gyoku is a much easier game to install, as you don't need to transfer any files for the main process. Simply enter 6 at the main screen and press ENTER. The entire game (based on the [ReC98 port for Linux](https://flathub.org/en/apps/net.nmlgc.rec98.sh01)) will install for you and be added to your Steam library. After completing the installation, the page for downloading BGM packs as well as the folder they go in will automatically open so you can download and transfer them to your game.
 
-# Roadmap
+# Roadmap (w/ Progress)
 Here are some features I'm planning to add in future updates of TouhouDeck (this list is subject to change as I think of new features I'll want to add):
-| Feature                                            | Coming in update...  |
-| -------------------------------------------------- | -------------------- |
-| Extended automation for the TH01-TH05 installation process | v1.1.0           |
-| Internet connectivity check (due to Git requiring it) | v1.1.0            |
-| Support for the original Windows trilogy (EoSD-IN) | v1.1.0               |
-| Game artwork (Game cover, logo, icon, etc.)        | v1.1.0               |
-| Support for Immaterial and Missing Power           | v1.2.0               |
-| Support for Torte Le Magic                         | v1.2.0 if compatible |
-| Support for Uwabami Breakers                       | v1.2.0 if compatible |
-| Integrated update detection                        | ???                  |
-| Support for Kioh Gyoku                             | ???                  |
-| Support for Samidare                               | ???                  |
-| Support for Banshiryuu                             | ???                  |
-| Support for VIVIT-99                               | ???                  |
-| Support for Super Marisa Land/MegaMari             | ???                  |
-| Support for Fools Rush In                          | ???                  |
-| Steam Machine support                              | ???                  |
+| Feature                                            | Coming in update...      | Progress           |
+| -------------------------------------------------- | ------------------------ | ------------------ |
+| Extended automation for the TH01-TH05 installation process | v1.1.0           | ❌ Not started     |
+| Internet connectivity check (due to Git requiring it) | v1.1.0                | ✅ Implemented     |
+| Support for the original Windows trilogy (EoSD-IN) | v1.1.0                   | ⏳ Being worked on |
+| Game artwork (Game cover, logo, icon, etc.)        | v1.1.0                   | ❌ Not started     |
+| Support for Immaterial and Missing Power           | v1.2.0                   | ❓ N/A             |
+| Support for Torte Le Magic                         | v1.2.0 if compatible     | ❓ N/A             |
+| Support for Uwabami Breakers                       | v1.2.0 if compatible     | ❓ N/A             |
+| Integrated update detection                        | ???                      | ❓ N/A             |
+| Support for Kioh Gyoku                             | ???                      | ❓ N/A             |
+| Support for Samidare                               | ???                      | ❓ N/A             |
+| Support for Banshiryuu                             | ???                      | ❓ N/A             |
+| Support for VIVIT-99                               | ???                      | ❓ N/A             |
+| Support for Super Marisa Land/MegaMari             | ???                      | ❓ N/A             |
+| Support for Fools Rush In                          | ???                      | ❓ N/A             |
+| Steam Machine support/Controller GUI               | ???                      | ❓ N/A             |
