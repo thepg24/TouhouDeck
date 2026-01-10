@@ -2,7 +2,7 @@
 TouhouDeck is a script that provides a convenient way to set up and play the classic Touhou/Seihou games on the Steam Deck and other SteamOS-based handheld PCs and devices.
 
 # UPDATE REGARDING V1.1.0
-v1.1.0 of TouhouDeck will be coming out later than I wanted it to, as something went wrong with my PC that caused me to <b>lose the code for the update</b>. v1.1.0 will still be coming out, so there is no reason to worry. However, it will take a while on top of this incident as well as researching how I can get Touhou 6-8 to run through the script. Thank you for your extended patience and I apologise for any inconvenience.
+v1.1.0 of TouhouDeck will be coming out later than I wanted it to, as something went wrong with my PC that caused me to <b>lose the code for the update</b>. v1.1.0 will still be coming out, so there is no reason to worry. However, it will take a while on top of this incident as well as researching how I can get Touhou 6-8 to run through the script. I will be making a v1.0.2 will some minor v1.1.0 features, which I never intended to do but it should be enough to maintain patience and demand for the next update. Thank you for your extended patience and I apologise for any inconvenience.
 
 # Contents  
 - [Supported Titles](#supported-titles)<br>
